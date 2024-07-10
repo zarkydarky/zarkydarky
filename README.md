@@ -6,9 +6,6 @@ Hello! I'm Jean, a computer engineer from Puerto Rico with a passion for learnin
 ## Skills & Experience
 [![My Skills](https://skillicons.dev/icons?i=cpp,octave,matlab,py,godot,html,css,linux)](https://skillicons.dev)
 
-# Links
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/youtube.svg" /> [Backlog Conquest](https://www.youtube.com/channel/UCr6WvRjp7a9wsIvsQEvQaMw)
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/steam.svg" /> [Zarky](https://steamcommunity.com/id/Zarkyy)
 
 <details>
   <summary>My Hobbies</summary>
