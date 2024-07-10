@@ -1,16 +1,18 @@
-## Hi there 👋
+![](https://raw.githubusercontent.com/zarkydarky/zarkydarky/main/github-header-image.png)
 
-<!--
-**zarkydarky/zarkydarky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Jean Miranda (zarkydarky)
+Hello! I'm Jean, a computer engineer from Puerto Rico with a passion for learning and exploring the vast world of engineering and technology. I enjoy dabbling in various fields, including but not limited to web development, game development, software engineering, and much more.
 
-Here are some ideas to get you started:
+## Skills & Experience
+[![My Skills](https://skillicons.dev/icons?i=cpp,octave,matlab,py,godot,html,css,linux)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>My Hobbies</summary>
+  - Gaming :joystick:
+  - Video Editing :desktop_computer:
+  - Playing Electric Guitar :guitar:
+  - Watching Movies or Anime :movie_camera:
+</details>
+
+
+
