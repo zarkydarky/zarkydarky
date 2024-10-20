@@ -1,4 +1,4 @@
-![]()
+![](https://raw.githubusercontent.com/zarkydarky/zarkydarky/refs/heads/main/header-image.png)
 
 # Jean Miranda (zarkydarky)
 Hello everyone! I'm Jean, and I'm currently a senior in university studying Computer Engineering. I'm from the wonderful island of Puerto Rico. I have a deep passion for the vast world of engineering and science. I enjoy dabbling in various fields, including but not limited to web development, electronics, game development, software engineering, and much more. 
