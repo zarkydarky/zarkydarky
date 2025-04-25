@@ -22,7 +22,7 @@ Hello everyone! I'm Jean, and I'm currently a senior in university studying Comp
   
   #### Check out my social profiles:
   
-  [<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">](https://steamcommunity.com/id/Zarkyy)
+  [<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">](https://steamcommunity.com/id/The_Zarky/)
   [<img src="https://img.shields.io/badge/Guilded-F5C400?style=for-the-badge&logo=guilded&logoColor=white">](https://www.guilded.gg/u/Zarky)
   
 </details>
