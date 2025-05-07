@@ -28,7 +28,7 @@ I'm fascinated by a broad range of tech fields—from **web development** and **
 - **Game Engines:** Godot  
 - **Web Tech:** HTML, CSS  
 - **Operating Systems:** Linux, Windows  
-- **IDE:** Eclipse  
+- **IDE:** Eclipse, Visual Studio, Arduino IDE, Processing IDE 
 - **Other Interests:** Embedded Systems, Electronics, Video Editing
 
 ---
