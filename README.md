@@ -30,8 +30,7 @@ I'm currently working on multiple projects including my senior engineering capst
 
 ### [AR Communication Software for Children with Autism](https://github.com/zarkydarky/AR-Communication-Software-ASD) (Jan. 2025 – Present)
 - Leading development of an assistive augmented reality (AR) communication system using Unity to support non-verbal or minimally verbal children with autism spectrum disorder (ASD)
-- Designed the initial backend system using PHP and MySQL to support user profiles, role-based access, and session logging
-- Implementing foundational user authentication, secure data storage, and modular architecture for future integration with AR headset platforms such as Meta Quest 3
+- Implementing foundational user authentication, secure data storage, and modular architecture for future integration with headset platforms such as Meta Quest 3s
 - Working toward deliverables including real-world AR overlays, UI/UX compliant with accessibility standards, and integrated offline functionality
 
 ## 💻 Technologies & Skills
